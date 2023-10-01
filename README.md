@@ -28,14 +28,6 @@
 - setLocationRelativeTo(null): determina la ubicación de la ventana, y a través del parámetro <strong>null</strong> la mantiene centrada en la pantalla.
 
 #### Para este desafío, concéntrate en la parte lógica y la conexión con la base de datos, después de completar el desafío, siéntate libre de agregar nuevas funciones y modificar la interfaz gráfica.
----
-
-## Videos de solución 
-Para ayudarte aún más en esta jornada de aprendizaje hemos creado estos videos de solución con las partes estratégicas para la realización de este desafío. Recuerda que esta es solo una de las infinitas formas de llevar a cabo el desafío, aprovechen para estudiar los códigos y también compartan entre ustedes sus resoluciones y opiniones acerca de su proyecto.
-
-- [Realiza una conexión a la base de datos e guarda tus registros](https://www.youtube.com/watch?v=1luEBNCweG4)
-- [Muestra los registros a través de la aplicación](https://youtu.be/8y5fqKVfDWU)
-
 
 
 🧡 <strong>Oracle</strong></br>
